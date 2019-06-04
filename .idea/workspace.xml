@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1dceec8-637b-49a3-b72b-46ec4ecbd244" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trash.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/iot/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/iot/BookStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/iot/BookType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/iot/Calendar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/iot/CalendarType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/iot/Coloring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/iot/ColoringType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/iot/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/iot/Manager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/iot/Size.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/lviv/iot/Stuff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            <state relative-caret-position="194">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -119,7 +104,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>reset</find>
       <find>wight</find>
       <find>-&gt;</find>
       <find>sort</find>
@@ -149,6 +133,7 @@
       <find>getT</find>
       <find>litera</find>
       <find>startPointField</find>
+      <find>manager</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -418,7 +403,7 @@
       <workItem from="1558544716893" duration="2781000" />
       <workItem from="1558811621706" duration="2790000" />
       <workItem from="1559665915918" duration="1766000" />
-      <workItem from="1559668013808" duration="330000" />
+      <workItem from="1559668013808" duration="694000" />
     </task>
     <servers />
   </component>
@@ -455,11 +440,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275792000" />
+    <option name="totallyTimeSpent" value="276156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2397882" />
       <window_info id="Image Layers" order="1" />
@@ -707,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        <state relative-caret-position="194">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
         </state>
       </provider>
     </entry>
